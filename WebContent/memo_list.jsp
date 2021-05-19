@@ -7,16 +7,16 @@
 
 <!DOCTYPE html>
 <html lang="ko">
-<head> 
+<head>
 <meta charset="UTF-8">
-<title>웹 서비스 실습</title>
+<title>웹 서비스 실습</title> 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
 	* {
 			font-family: 'Poor Story', cursive;
 			text-align: center;
 		}
-	#postIt {
+	#postIt { 
 	 border: 3px solid black;
 	 background-color: yellow;
 	 width: 800x;
