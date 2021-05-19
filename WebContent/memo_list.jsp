@@ -7,7 +7,7 @@
 
 <!DOCTYPE html>
 <html lang="ko">
-<head>
+<head> 
 <meta charset="UTF-8">
 <title>웹 서비스 실습</title>
 <style>
